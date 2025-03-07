@@ -43,10 +43,15 @@ Start context:  We're all
 
 ### harry potter 02
 ```
-Start context:  gryffindor
-0 : gryffindor, I suggest you look more closely at this.â€ Dumbledore reached across to Professor McGonagallâ€™s desk, looking around to say, but thought Harryâ€™s desk, when he kicked out of the bird looked
-1 : gryffindor Tower, desperate to tell Ron and Hermione about Colin and Dobby, but they werenâ€™t there. Harry left to look for them so far too many questions for them, wondering if only when heâ€ He pulled him out
-2 : gryffindor, I suggest you look more closely at this.â€ Dumbledore reached across to Professor McGonagallâ€™s desk, picked up the desk, picked up the hat, picked up the hat, the hat next to Hedwigâ
-3 : gryffindor, occasionally coming to long enough to copy down a name or date, then falling asleep again. He had been speaking for half an hour when something â€™s idea if it in case you know about six oâ€”â€
-4 : gryffindor Tower. The castle was quiet; it seemed that the feast was over. They walked past muttering portraits and creaking suits of armor, and climbed narrow flights and climbed narrow windows of armor, examining theICE Peeves broke into the pool of
+Start context:  shut up
+0 : shut up, Malfoy,” said Ron, bent double with his head in a peony bush, “like fat little Santa Clauses with fishing rods.…’Course,” There was as long enough.…” There was visible
+1 : shut up, Malfoy.” “You’re just jealous,” piped up Colin, whose entire body was about as thick as Crabbe’s Cross at him. He could reach. “What’s vast,
+2 : shut up, Malfoy.” “You’re just jealous,” piped up Colin, whose entire body was about as thick as Crabbe’s Cross at him. “What” Heir of interest. He could
+3 : shut up, Malfoy.” “You’re just jealous,” piped up Colin, whose entire body was about as thick as Crabbe” Heir by sight, yet closer. “What happened to reach Malfoy’
+4 : shut up, Malfoy.” “You’re just jealous,” piped up Colin, whose entire body was about as thick as Crabbe’s Cross at him. “Now, and Nearly Headless Hunt, by common
+5 : shut up, Malfoy.” “You’re just jealous,” piped up Colin, whose entire body was about as thick as Crabbe’s Cross at him. “Jig of what Ginny’s bank,
+6 : shut up, Malfoy,” said Ron, bent double with his head in a peony bush, “like fat little Santa Clauses with fishing rods.…’s family but oh,” said,’you.…’
+7 : shut up, Malfoy.” “You’re just jealous,” piped up Colin, whose entire body was about as thick as Crabbe’s neck. “What’s rage did try and scared as Crabbe
+8 : shut up, Malfoy,” said Ron, bent double with his head in a peony bush, “like fat little Santa Clauses with fishing rods.…’Course,” There was as long,’ then he heard more difficult
+9 : shut up, Malfoy.” “You’re just jealous,” piped up Colin, whose entire body was about as thick as Crabbe’s trunk. He focused on the mud, Ron’s neck. He could
 ```
